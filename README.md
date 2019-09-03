@@ -1,4 +1,4 @@
-## Usaged
+## Usage
 
 ### Basic Usage
 
